@@ -54,7 +54,7 @@ export default function Home() {
       description: "Script to scrapes photos, item names and price from the reknowned https://www.supremecommunity.com/, with the option to upload to google sheets, fully automated.",
       tags: ["Web Scraping", "spreadsheet Automation", "Pattern Recognition"],
       image: "/images/sc-retails.png?height=600&width=800",
-      github: "https://github.com/username/project-4",
+      github: "https://github.com/ymmxl/sc-retails",
     },
     {
       title: "Gatekeepr",

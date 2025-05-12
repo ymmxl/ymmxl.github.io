@@ -9,7 +9,7 @@ const spaceMono = Space_Mono({
 });
 
 export const metadata = {
-  title: "Alex.Design | Creative Designer & Developer",
+  title: "ymmxl | Creative Designer & Developer",
   description: "Portfolio of a multidisciplinary designer and developer",
 };
 
