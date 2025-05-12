@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; */
+    
+    --radius: 0.5rem;
+    --radius-sm: 0.3rem;
+    --radius-md: 0.4rem;
+    --radius-lg: 0.5rem;
+    
+    --background: 0 0% 100%;
+    --foreground: 0 0% 3.9%;
+    --card: 0 0% 98%;
+    --card-foreground: 0 0% 6.7%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 6.7%;
+    --primary: 160 84% 39%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 0 0% 96.1%;
+    --secondary-foreground: 0 0% 6.7%;
+    --muted: 0 0% 96.1%;
+    --muted-foreground: 0 0% 45.1%;
+    --accent: 0 0% 96.1%;
+    --accent-foreground: 0 0% 6.7%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 0 0% 89.8%;
+    --input: 0 0% 89.8%;
+    --ring: 160 84% 39%;
+    --accent-color: #34d399;
+  }
+
+  .dark {
+    /* Midnight Command Theme */
+    --background: 218 37% 7%; /* #0A0E17 navy-black */
+    --foreground: 0 0% 84%; /* #D7D7D7 silver */
+    --card: 218 37% 12%;
+    --card-foreground: 0 0% 84%;
+    --popover: 218 37% 12%;
+    --popover-foreground: 0 0% 84%;
+    --primary: 215 50% 25%; /* #1E3A5F deep blue */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 218 37% 18%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 218 37% 18%;
+    --muted-foreground: 0 0% 64%;
+    --accent: 50 100% 50%; /* #FFD700 gold */
+    --accent-foreground: 215 50% 25%;
+    --destructive: 0 62.8% 36.6%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 218 37% 18%;
+    --input: 218 37% 18%;
+    --ring: 50 100% 50%;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    transition: background-color 1s ease;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #0A0E17;
+    transition: background-color 1s ease;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: var(--accent-color);
+    border-radius: 4px;
+    transition: background-color 1s ease;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--accent-color);
+    transition: background-color 1s ease;
+  }
+/* Add smooth transitions for all color changes */
+* {
+  transition-property: color, background-color, border-color;
+  transition-duration: 1s;
+  transition-timing-function: ease;
+}
+
+
+
+}

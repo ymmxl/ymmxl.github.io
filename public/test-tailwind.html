@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tailwind Color Test</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            // Standard Tailwind colors should be available
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="p-8 bg-black">
+  <h1 class="text-3xl font-bold mb-8">Tailwind Color Test</h1>
+  
+  <div class="grid grid-cols-2 gap-4">
+    <div class="p-4 bg-emerald-400 text-black">bg-emerald-400</div>
+    <div class="p-4 bg-white text-emerald-400">text-emerald-400</div>
+    
+    <div class="p-4 bg-gray-400 text-black">bg-gray-400</div>
+    <div class="p-4 bg-white text-gray-400">text-gray-400</div>
+  </div>
+</body>
+</html> 

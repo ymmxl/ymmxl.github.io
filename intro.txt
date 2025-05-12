@@ -1,0 +1,20 @@
+I'm a mechanical engineer turned full-stack developer who discovered my passion for programming while building
+ a sophisticated sneaker procurement service. 
+ My journey began with automation and web scraping, evolving into creating enterprise-grade SaaS solutions 
+ like Lucky Strikes and mChefs NDC Monitor – systems that combine real-time monitoring, multithreading, 
+ and advanced detection avoidance to deliver scalable business solutions.
+
+Today, I specialize in developing robust SaaS applications and automation tools that drive business efficiency. 
+From Discord bots managing order workflows to secure authentication systems like Gatekeepr, I leverage modern tools 
+and AI to rapidly prototype and deploy solutions that bridge the gap between user experience and backend functionality
+. My self-taught approach, combined with an engineering mindset, allows me to deliver enterprise-ready applications t
+hat transform complex challenges into elegant solutions.
+
+
+From mechanical engineering to full-stack development, I've transformed my passion for problem-solving into a journey of digital innovation. Specializing in building intelligent automation systems, real-time monitoring solutions, and AI-powered applications, I bridge the gap between complex technical challenges and elegant user experiences. My expertise in leveraging generative AI tools and implementing machine learning solutions enables me to create sophisticated, forward-thinking applications that push the boundaries of what's possible.
+
+With expertise in Python, web development, and API integration, I craft solutions that combine technical precision with creative problem-solving. My self-taught journey has equipped me with a unique perspective on software development, allowing me to approach challenges with both engineering rigor and innovative thinking. By integrating AI capabilities into my applications, I create intelligent systems that not only solve problems but anticipate and adapt to user needs, demonstrating the powerful synergy between human creativity and artificial intelligence.
+
+From mechanical engineering to full-stack development, I've transformed my passion for problem-solving into a journey of digital innovation. Specializing in building AI-powered applications and intelligent automation systems, I bridge the gap between complex technical challenges and elegant user experiences.
+
+With expertise in Python, web development, and API integration, I craft solutions that combine technical precision with creative problem-solving. My self-taught journey has equipped me with a unique perspective, allowing me to approach challenges with both engineering rigor and innovative thinking.
