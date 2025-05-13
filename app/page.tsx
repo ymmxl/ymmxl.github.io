@@ -80,7 +80,7 @@ export default function Home() {
       
       <header className={`fixed top-0 w-full z-50 transition-all duration-300 ${scrolled ? "bg-black/80 backdrop-blur-md py-4" : "py-6"}`}>
         <div className="container mx-auto px-4 flex justify-between items-center">
-          <h2 className="text-2xl font-bold tracking-tighter">YMMXL.IO</h2>
+          <h2 className="text-2xl font-bold tracking-tighter">YMMXL.XYZ</h2>
           <nav>
             <ul className="flex space-x-8">
               <li><a href="#about" className="hover:text-accent transition-colors duration-300">about</a></li>
