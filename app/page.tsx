@@ -103,7 +103,7 @@ export default function Home() {
               CREATIVE <span className="text-accent">DESIGNER</span> & DEVELOPER
             </h1>
             <p className="text-xl md:text-2xl mb-12 text-gray-300">
-            Hi, I&aposm Henry, full-stack developer crafting intelligent solutions from UI to API.
+            "Hi, I'm Henry, full-stack developer crafting intelligent solutions from UI to API."
             </p>
             <button 
               onClick={scrollToAbout}
@@ -131,7 +131,7 @@ export default function Home() {
             <div className="grid md:grid-cols-2 gap-12">
               <div>
                 <p className="text-xl mb-6 leading-relaxed">
-                From mechanical engineering to full-stack development, I&aposve transformed my passion for problem-solving into a journey of digital innovation. Specializing in building AI-powered applications and intelligent automation systems, I bridge the gap between complex technical challenges and elegant user experiences.
+                "From mechanical engineering to full-stack development, I've transformed my passion for problem-solving into a journey of digital innovation. Specializing in building AI-powered applications and intelligent automation systems, I bridge the gap between complex technical challenges and elegant user experiences."
                 </p>
                 <p className="text-xl mb-6 leading-relaxed">
                 With expertise in Python, web development, and API integration, I craft solutions that combine technical precision with creative problem-solving. My self-taught journey has equipped me with a unique perspective, allowing me to approach challenges with both engineering rigor and innovative thinking.              
